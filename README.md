@@ -12,5 +12,6 @@ Moha@DESKTOP-CQVU970 MINGW64 /d/DESK/GG/demo-repo (main)
 > Agent pid 483
 3 ssh-add ~/.ssh/id_ed25519
 4 clip < ~/.ssh/id_ed25519.pub  (to copy ssh key on clipboard)
- 5  end
+5 paste it on setting /new ssh key/
+6 end
 
